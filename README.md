@@ -1,4 +1,4 @@
-# GitCo-Authors
+# Git Co-Authors
 
 Copies a co-author's git info for your commits
 
