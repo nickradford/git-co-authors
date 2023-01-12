@@ -1,6 +1,6 @@
-# Github Co-Authors
+# GitCo-Authors
 
-Copies a co-author's github info for your commits
+Copies a co-author's git info for your commits
 
 ## Screenshots
 
