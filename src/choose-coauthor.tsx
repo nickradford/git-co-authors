@@ -15,7 +15,7 @@ export default function ChooseAuthor() {
   }, []);
 
   return (
-    <List>
+    <List searchBarPlaceholder="Dana Scully">
       {authors.map((author) => (
         <List.Item
           title={author.name}
