@@ -1,4 +1,4 @@
-import { Action, ActionPanel, Cache, Icon, List, showToast, Toast } from "@raycast/api";
+import { Action, ActionPanel, Icon, List, showToast, Toast } from "@raycast/api";
 import { useEffect, useState } from "react";
 import AddOrEditAuthor from "./add-or-edit-author";
 import { Authors } from "./types";

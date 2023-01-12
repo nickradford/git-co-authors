@@ -21,7 +21,7 @@
     {
       "name": "add-or-edit-author",
       "title": "Add Author",
-      "description": "",
+      "description": "Add an author to the list of authors to select from",
       "mode": "view",
       "icon": "git2.svg"
     }
